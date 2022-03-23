@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75e6fb06.chunk.css",
+    "main.js": "/static/js/main.5d3383c2.chunk.js",
+    "main.js.map": "/static/js/main.5d3383c2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d7a8cdf9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d7a8cdf9.js.map",
+    "static/js/2.2358f91a.chunk.js": "/static/js/2.2358f91a.chunk.js",
+    "static/js/2.2358f91a.chunk.js.map": "/static/js/2.2358f91a.chunk.js.map",
+    "static/js/3.925914f0.chunk.js": "/static/js/3.925914f0.chunk.js",
+    "static/js/3.925914f0.chunk.js.map": "/static/js/3.925914f0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.75e6fb06.chunk.css.map": "/static/css/main.75e6fb06.chunk.css.map",
+    "static/js/2.2358f91a.chunk.js.LICENSE.txt": "/static/js/2.2358f91a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/turismo_mundial.1f385c55.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7a8cdf9.js",
+    "static/js/2.2358f91a.chunk.js",
+    "static/css/main.75e6fb06.chunk.css",
+    "static/js/main.5d3383c2.chunk.js"
+  ]
+}

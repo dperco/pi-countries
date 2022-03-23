@@ -1,0 +1,15 @@
+body {
+  background-image: url('./components/styles/turismo_mundial.png'); 
+  background-repeat: no-repeat; 
+  background-size:cover;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

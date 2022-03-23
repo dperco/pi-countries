@@ -1,0 +1,23 @@
+ .body{
+    
+
+    color:#000;
+    align-items: center;
+    box-sizing: border-box;
+    width: 1200px;
+    height: auto;
+    padding: 2px 2px 2px 2px;
+    margin-left: 3px;
+}
+
+p{
+    color:blueviolet;
+    text-align:center;
+}
+h1{
+    color: #000;
+    text-align:center;
+}
+
+
+
